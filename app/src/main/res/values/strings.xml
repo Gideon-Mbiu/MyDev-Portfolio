@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyDev Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">Hi my name is Gideon Mbiu, a Multimedia University graduate with a Bachelors degree in Software Engineering. I am a passionate Software Engineer and an established Android Developer. Being a technology enthusiast, it is always my pleasure to keep up with new and emerging technology trends</string>
+    <string name="skills">* Java Development "\n" * Android Development with Java "\n" * Java Swing "\n" * Flutter Development "\n" *Django Development </string>
+    <string name="work">* Dev Portfolio "\n" * Motivational App "\n" * Weather App</string>
+    <string name="contact">* Phone: +254 791 316 130 "\n" * Email: gideonmbiu@gmail.com "\n" * Linkedin: https://www.linkedin.com/in/gideon-mbiu-987286163/</string>
+</resources>
